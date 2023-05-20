@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Patil</h1>
 <h3 align="center">A Full Stack Web Developer.</h3>
+<img src="https://tenor.com/view/tkthao219-quby-sticker-gif-26472879"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh1051&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh1051" /> </p>
 
