@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh1051&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh1051" /> </p>
-<img align="right" src="https://tenor.com/view/tkthao219-quby-sticker-gif-26472879]" alt="coding" />
+<img align="right" width='400' height="400" src="https://tenor.com/view/tkthao219-quby-sticker-gif-26472879]" alt="coding" />
 
 
 - 🔭 I’m currently Studying at **IIIT Nagpur**
