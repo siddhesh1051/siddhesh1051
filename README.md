@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/siddhesh1052001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhesh1052001/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddhesh1052001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"height="30" width="40" /></a>
 <a href="https://instagram.com/sid.patil.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sid.patil.01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucpdddcnpyoc2wge4s-krzca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpdddcnpyoc2wge4s-krzca" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/the_cyber_sid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/the_cyber_sid" height="30" width="40" /></a>
