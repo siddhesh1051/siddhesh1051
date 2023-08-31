@@ -2,6 +2,7 @@
     <a href="https://github.com/siddhesh1051">
         <img src="https://raw.githubusercontent.com/siddhesh1051/siddhesh1051/output/github-snake.svg" width="auto" alt="wave gif"> 
     <a/>
+        ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
     <br/>
     <h1>Hello! I'm Siddhesh Patil
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave gif"> 
