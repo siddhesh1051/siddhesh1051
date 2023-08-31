@@ -1,6 +1,6 @@
 <div align="center"> 
     <a href="https://github.com/siddhesh1051">
-        <img src="https://raw.githubusercontent.com/siddhesh1051/siddhesh1051/output/github-snake.svg" width="auto" alt="wave gif">
+        <img src="https://raw.githubusercontent.com/siddhesh1051/siddhesh1051/output/github-snake.svg" width="auto" alt="wave gif"> 
     <a/>
     <br/>
     <h1>Hello! I'm Siddhesh Patil
