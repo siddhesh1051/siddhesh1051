@@ -1,6 +1,6 @@
 <div align="center"> 
-    <a href="https://github.com/Anu26092002">
-        <img src="https://raw.githubusercontent.com/Anu26092002/Anu26092002/output/github-snake.svg" width="auto" alt="wave gif">
+    <a href="https://github.com/siddhesh1051">
+        <img src="https://raw.githubusercontent.com/siddhesh1051/siddhesh1051/output/github-snake.svg" width="auto" alt="wave gif">
     <a/>
     <br/>
     <h1>Hello! I'm Anurag Ghosh
@@ -32,7 +32,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="Hackerrank icon" width="30" height="30"/>
             </a>
             &nbsp;
-            <a href="https://codepen.io/anu26092002-the-styleful" target="_blank">
+            <a href="https://codepen.io/siddhesh1051-the-styleful" target="_blank">
                 <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="CodePen icon" width="30" height="30"/>
             </a>
         </p>
@@ -40,14 +40,14 @@
 </div>
 <br/>
 <div align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=siddhesh1051&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
     &nbsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Anu26092002" alt="visitors"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=siddhesh1051" alt="visitors"/>
 </div>
 <br/>
 <div align="center"> 
-    <a href="https://github.com/Anu26092002">
-        <img  alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
+    <a href="https://github.com/siddhesh1051">
+        <img  alt="Siddhesh's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhesh1051&theme=radical"/>
     </a>
 </div>
     
@@ -56,24 +56,24 @@
 <div align="center"> 
     <h3>📊 My Stats</h3>
     <br/>
-    <a href="https://github.com/Anu26092002">
-        <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
+    <a href="https://github.com/siddhesh1051">
+        <img src="https://github-profile-trophy.vercel.app/?username=siddhesh1051&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Siddhesh's profile trophies" />
     <a/>
     <br/>
-    <a href="https://github.com/Anu26092002">
-        <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&PAT_1&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Most Used Languages" />
+    <a href="https://github.com/siddhesh1051">
+        <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh1051&PAT_1&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Siddhesh's Most Used Languages" />
     </a>
     &nbsp;
-    <a href="https://github.com/Anu26092002">
-        <img height="300"  width="400" src="https://github-readme-stats.vercel.app/api?username=Anu26092002&PAT_1&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Stats" />
+    <a href="https://github.com/siddhesh1051">
+        <img height="300"  width="400" src="https://github-readme-stats.vercel.app/api?username=siddhesh1051&PAT_1&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Siddhesh's Stats" />
     </a>
     <br/>
-    <a href="https://github.com/Anu26092002">
-        <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
+    <a href="https://github.com/siddhesh1051">
+        <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Siddhesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh1051&theme=neon-dark&hide_border=true"/>
     </a>
     <br/>
-    <a href="https://github.com/Anu26092002">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anu26092002&theme=github" alt="Anurag's contribution graph" />
+    <a href="https://github.com/siddhesh1051">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siddhesh1051&theme=github" alt="Siddhesh's contribution graph" />
     </a>
     <br/>
 </div>
@@ -128,8 +128,8 @@
             &nbsp;
         </p>
         <br/>
-        <a href="https://profile.codersrank.io/user/Anu26092002/">
-        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Anu26092002" alt="Please refresh the page if the graph doesn't show up."/>
+        <a href="https://profile.codersrank.io/user/siddhesh1051/">
+        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=siddhesh1051" alt="Please refresh the page if the graph doesn't show up."/>
         </a>
 </div>
 
