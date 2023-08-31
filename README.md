@@ -1,6 +1,8 @@
 <div align="center"> 
     <a href="https://github.com/siddhesh1051">
-        <img src="https://raw.githubusercontent.com/siddhesh1051/siddhesh1051/output/github-snake.svg" width="auto" alt="wave gif"> 
+<!--         <img src="https://raw.githubusercontent.com/siddhesh1051/siddhesh1051/output/github-snake.svg" width="auto" alt="wave gif">  -->
+        <img src="https://github.com/siddhesh1051/siddhesh1051/blob/output/github-contribution-grid-snake.gif" width="auto" alt="wave gif"> 
+        
     <a/>
         ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
     <br/>
