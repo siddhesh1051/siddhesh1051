@@ -117,6 +117,8 @@
             &nbsp;
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
             &nbsp;
+            <img src="https://leetcode-stats-six.vercel.app/api?username=madushandhanushka" alt="firebase" width="40" height="40" title="Firebase"/>
+            &nbsp;
         </p>
         </details>
         <br/>
