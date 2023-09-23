@@ -106,7 +106,7 @@
         <br/>
     <div>
         <h1> Leetcode Profile </h1>
-        <img src="https://leetcode-stats-six.vercel.app/api?username=madushandhanushka" alt="leetcode" title="Leetcode"/>
+        <img src="https://leetcode-stats-six.vercel.app/api?username=the_cyber_sid" alt="leetcode" title="Leetcode"/>
     </div>
         
         
