@@ -1,7 +1,37 @@
-<div align="center"> 
 
-</div>
 <div align="center">
+    <div align="center"> 
+    <br/>
+            <a href="https://github.com/siddhesh1051">
+        <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Siddhesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh1051&theme=neon-dark&hide_border=true"/>
+    </a>
+    <br/>
+    <a href="https://github.com/siddhesh1051">
+        <img src="https://github-profile-trophy.vercel.app/?username=siddhesh1051&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Siddhesh's profile trophies" />
+    <a/>
+    <br/>
+        
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
+                 <h1> Leetcode Profile </h1>
+         <a>
+        <img src="https://leetcode-stats-six.vercel.app/api?username=the_cyber_sid" alt="leetcode" title="Leetcode"/>
+        </a>
+    </a>
+        <br>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
+    <a href="https://github.com/siddhesh1051">
+        <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh1051&PAT_1&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Siddhesh's Most Used Languages" />
+    </a> &nbsp;
+    <a href="https://github.com/siddhesh1051">
+        <img height="300"  width="400" src="https://github-readme-stats.vercel.app/api?username=siddhesh1051&PAT_1&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Siddhesh's Stats" />
+    </a>
+    <br/>
+   
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
+  
+    
+</div>
     <details>
         <summary><b>:hugs:&nbsp;Find Me on</b></summary>
         <br/>
@@ -36,30 +66,8 @@
     </a>
 </div>
     
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
 
-<div align="center"> 
-    <h3>📊 My Stats</h3>
-    <br/>
-    <a href="https://github.com/siddhesh1051">
-        <img src="https://github-profile-trophy.vercel.app/?username=siddhesh1051&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Siddhesh's profile trophies" />
-    <a/>
-    <br/>
-    <a href="https://github.com/siddhesh1051">
-        <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh1051&PAT_1&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Siddhesh's Most Used Languages" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/siddhesh1051">
-        <img height="300"  width="400" src="https://github-readme-stats.vercel.app/api?username=siddhesh1051&PAT_1&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Siddhesh's Stats" />
-    </a>
-    <br/>
-    <a href="https://github.com/siddhesh1051">
-        <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Siddhesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh1051&theme=neon-dark&hide_border=true"/>
-    </a>
-    <br/>
-  
-    
-</div>
+
 <br/>
    
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
@@ -105,8 +113,6 @@
         </details>
         <br/>
     <div>
-        <h1> Leetcode Profile </h1>
-        <img src="https://leetcode-stats-six.vercel.app/api?username=the_cyber_sid" alt="leetcode" title="Leetcode"/>
     </div>
         
         
