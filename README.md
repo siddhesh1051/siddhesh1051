@@ -122,9 +122,15 @@
         </p>
         </details>
         <br/>
+        <div>
+            <h1>
+                Leetcode Profile
+            </h1>
+            
          <img src="https://leetcode-stats-six.vercel.app/api?username=madushandhanushka" alt="leetcode" title="Leetcode"/>
-        <br/>
   
+        </div>
+        <br/>
 
        
         
