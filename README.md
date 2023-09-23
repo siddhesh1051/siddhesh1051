@@ -65,10 +65,8 @@
         <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Siddhesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh1051&theme=neon-dark&hide_border=true"/>
     </a>
     <br/>
-    <a href="https://github.com/siddhesh1051">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siddhesh1051&theme=github" alt="Siddhesh's contribution graph" />
-    </a>
-    <br/>
+  
+    
 </div>
 <br/>
    
