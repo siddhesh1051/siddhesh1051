@@ -122,16 +122,9 @@
         </p>
         </details>
         <br/>
-         <img src="https://leetcode-stats-six.vercel.app/api?username=madushandhanushka" alt="firebase" width="40" height="40" title="Firebase"/>
-            &nbsp;
-    
-         <a>
-        (https://github.com/madushadhanushka/github-readme)
-        </a>
-<!--         <a href="https://profile.codersrank.io/user/siddhesh1051/">
-        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=siddhesh1051" alt="Please refresh the page if the graph doesn't show up."/>
-            
-        </a> -->
+         <img src="https://leetcode-stats-six.vercel.app/api?username=madushandhanushka" alt="leetcode" title="Leetcode"/>
+        <br/>
+  
 
        
         
