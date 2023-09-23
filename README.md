@@ -118,9 +118,13 @@
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
             &nbsp;
         </p>
+        </details>
         <br/>
+         <img src="https://leetcode-stats-six.vercel.app/api?username=madushandhanushka" alt="firebase" width="40" height="40" title="Firebase"/>
+            &nbsp;
+    
          <a>
-        https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+        (https://github.com/madushadhanushka/github-readme)
         </a>
 <!--         <a href="https://profile.codersrank.io/user/siddhesh1051/">
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=siddhesh1051" alt="Please refresh the page if the graph doesn't show up."/>
