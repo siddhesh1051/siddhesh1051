@@ -123,7 +123,11 @@
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=siddhesh1051" alt="Please refresh the page if the graph doesn't show up."/>
             
         </a>
+
+        <a>
         [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+        </a>
+        
 </div>
 
 
