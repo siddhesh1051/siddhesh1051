@@ -35,8 +35,7 @@
 <br/>
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=siddhesh1051&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
-    &nbsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=siddhesh1051" alt="visitors"/>
+   
 </div>
 <br/>
 <div align="center"> 
