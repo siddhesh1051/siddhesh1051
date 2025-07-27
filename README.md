@@ -5,6 +5,7 @@
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=siddhesh1051&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
 </div>
+</br>
     <a href="https://github.com/siddhesh1051">
         <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" 
         alt="Siddhesh's streak" 
@@ -13,10 +14,8 @@
     <br/>
 </div>
 
-<br/>
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
+</br>
 
-<br/>
 
 <div align="center"> 
     <a href="https://github.com/siddhesh1051">
