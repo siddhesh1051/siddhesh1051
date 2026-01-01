@@ -6,6 +6,9 @@
 </br>
 
 
+    
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=siddhesh1051&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=siddhesh1051&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siddhesh1051&layout=compact&theme=radical)
+
+
+
